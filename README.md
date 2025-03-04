@@ -67,4 +67,4 @@ It does not represent an accurate simulation of the universe's actual formation.
 ## Credits
 
 Fae Jordaan, Camila Medrano, Anastasiia Korolenko and Raya Mouri.  
-If you have any questions, feel free to reach out!
+If you have any questions, feel free to reach out to **c.medranoprado0105@gmail.com**.
