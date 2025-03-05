@@ -1,9 +1,8 @@
 # Cosmic Web Generator
 
-This project aims to simulate the large-scale structure of the universe, known as the cosmic web, through recursive algorithms and interactive controls.
-It provides users with the ability to explore how filaments, galaxies, and stars form interconnected patterns in 3D space.
-The application integrates fractal-based logic, allowing adjustments in real-time using a graphical user interface (GUI).
+This project **simulates** the **cosmic web** using **recursive algorithms** and **fractal-based logic**. Users can explore the interconnected patterns of filaments, galaxies, and stars in 3D space, with **real-time adjustments** through an interactive graphical interface.
 
+![Cosmic Web Generator Banner](https://github.com/camilafresitaa/CosmicWebGenerator/blob/main/banner.jpg)
 
 ## Project Overview
 
